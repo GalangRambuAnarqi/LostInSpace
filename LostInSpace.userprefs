@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Generatemeteor.cs">
+    <Files>
+      <File FileName="Assets\scripts\BGscroll.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Meteormovement.cs" Line="28" Column="3" />
+      <File FileName="Assets\scripts\Obstacle.cs" Line="20" Column="44" />
+      <File FileName="Assets\scripts\SupplyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GenerateSupply.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerBullet.cs" Line="33" Column="43" />
+      <File FileName="Assets\scripts\CurrentScore.cs" Line="3" Column="19" />
+      <File FileName="Assets\scripts\TimerDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\onCollisionPlayerDetection.cs" Line="85" Column="4" />
+      <File FileName="Assets\scripts\DistanceTimer.cs" Line="93" Column="2" />
+      <File FileName="Assets\scripts\InGameManager.cs" Line="85" Column="27" />
+      <File FileName="Assets\scripts\Player.cs" Line="7" Column="40" />
+      <File FileName="Assets\scripts\GuiManager.cs" Line="128" Column="2" />
+      <File FileName="Assets\scripts\Generate.cs" Line="15" Column="41" />
+      <File FileName="Assets\scripts\Generatemeteor.cs" Line="5" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
